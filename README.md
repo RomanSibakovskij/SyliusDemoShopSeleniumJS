@@ -10,6 +10,8 @@ Selenium test suite on basic e-commerce web app functionality (various product a
  
  3.IntelliJ IDEA (or another IDE)
 
+ 4. Selenium 4.32 and above
+
 #Setup
 
 1. Clone this repository into IntelliJ(or other IDE) workspace folder (or wherever the project can be launched by IDE)
